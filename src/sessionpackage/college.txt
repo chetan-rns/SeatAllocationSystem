@@ -1,0 +1,10 @@
+1	IIT Kharagpur	IITKGP	1951	1951	West Bengal
+2	IIT Bombay	IITB	1958	1958	Maharashtra
+3	IIT Kanpur	IITK	1959	1959	Uttar Pradesh
+4	IIT Madras	IITM	1959	1959	Tamil Nadu
+5	IIT Delhi	IITD	1961	1963	Delhi
+6	IIT Guwahati	IITG	1994	1994	Assam
+7	IIT Roorkee	IITR	1847	2001	Uttarakhand
+8	IIT Ropar	IITRPR	2008	2008	Punjab
+9	IIT Bhubaneswar	IITBBS	2008	2008	Odisha
+10	IIT Gandhinagar	IITGN	2008	2008	Gujarat
